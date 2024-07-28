@@ -8,4 +8,6 @@ Also, if you have any ideas or suggestions, let me know. And if you would like t
 
 I am posting a link to a discord server I created. If you would like to provide ideas with storyline, world building, lore, classes, game mechanics, or anything, and play the game itself in the future, join us. Also note that this is a PC game, so a computer is required to play. The game is command line based so it doesn't requires any graphics to run. All computers would be able to run it.
 
+[![image](https://i.postimg.cc/3NbkJ1HQ/Untitled-2023-07-15-1528.png)](https://postimg.cc/WqgN5M35)
+
 Join the discord server at: https://discord.gg/r3ygt5w528
