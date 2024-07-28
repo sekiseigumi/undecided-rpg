@@ -1,2 +1,2 @@
-# undecided-rpg
+# Undecided RPG
 Surprise!
